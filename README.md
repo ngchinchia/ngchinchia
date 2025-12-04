@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Chin Chia, a results-driven software engineer with one year of experience in crafting scalable, efficient web and mobile applications. With a strong background in React, Node.js, I specialize in optimizing performance and building responsive user-centric designs.
+Doing side quest
 
 
 ## 🌐 Socials:
